@@ -50,9 +50,12 @@ We looked into the question and gained a better understanding of it. After under
 
 **This project Exploratory Data Analysis has been shown in GIF for easy view and time saving**
 
+![eda_gif - Made with Clipchamp](https://user-images.githubusercontent.com/78978975/182818314-4850c914-8595-41b4-8291-ff2b307d0f52.gif)
+
 
 **To view entire notbook for depth Analysis and understanding you can click below link**
 
+[View Full EDA in Notebook](https://github.com/Jaiharish-passion07/Almabetter-Capstone_project/blob/master/Final_capstone_project_airbnb_done.ipynb)
 
 ## Technical skills
 
